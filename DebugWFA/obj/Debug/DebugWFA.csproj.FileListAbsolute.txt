@@ -1,0 +1,12 @@
+D:\_Dev\DungeonGenerator\DebugWFA\bin\Debug\DebugWFA.exe.config
+D:\_Dev\DungeonGenerator\DebugWFA\bin\Debug\DebugWFA.exe
+D:\_Dev\DungeonGenerator\DebugWFA\bin\Debug\DebugWFA.pdb
+D:\_Dev\DungeonGenerator\DebugWFA\obj\Debug\DebugWFA.csprojAssemblyReference.cache
+D:\_Dev\DungeonGenerator\DebugWFA\obj\Debug\DebugWFA.Form1.resources
+D:\_Dev\DungeonGenerator\DebugWFA\obj\Debug\DebugWFA.Properties.Resources.resources
+D:\_Dev\DungeonGenerator\DebugWFA\obj\Debug\DebugWFA.csproj.GenerateResource.cache
+D:\_Dev\DungeonGenerator\DebugWFA\obj\Debug\DebugWFA.exe
+D:\_Dev\DungeonGenerator\DebugWFA\obj\Debug\DebugWFA.pdb
+D:\_Dev\DungeonGenerator\DebugWFA\bin\Debug\DungeonGenerator.dll
+D:\_Dev\DungeonGenerator\DebugWFA\bin\Debug\DungeonGenerator.pdb
+D:\_Dev\DungeonGenerator\DebugWFA\obj\Debug\DebugWFA.csproj.CopyComplete

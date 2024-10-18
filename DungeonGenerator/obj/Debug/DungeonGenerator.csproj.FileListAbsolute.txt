@@ -1,0 +1,5 @@
+D:\_Dev\DungeonGenerator\DungeonGenerator\bin\Debug\DungeonGenerator.dll
+D:\_Dev\DungeonGenerator\DungeonGenerator\bin\Debug\DungeonGenerator.pdb
+D:\_Dev\DungeonGenerator\DungeonGenerator\obj\Debug\DungeonGenerator.csprojAssemblyReference.cache
+D:\_Dev\DungeonGenerator\DungeonGenerator\obj\Debug\DungeonGenerator.dll
+D:\_Dev\DungeonGenerator\DungeonGenerator\obj\Debug\DungeonGenerator.pdb
